@@ -1,0 +1,14 @@
+d:\Lesson\NatNums\bin\Debug\net8.0\NatNums.exe
+d:\Lesson\NatNums\bin\Debug\net8.0\NatNums.deps.json
+d:\Lesson\NatNums\bin\Debug\net8.0\NatNums.runtimeconfig.json
+d:\Lesson\NatNums\bin\Debug\net8.0\NatNums.dll
+d:\Lesson\NatNums\bin\Debug\net8.0\NatNums.pdb
+d:\Lesson\NatNums\obj\Debug\net8.0\NatNums.GeneratedMSBuildEditorConfig.editorconfig
+d:\Lesson\NatNums\obj\Debug\net8.0\NatNums.AssemblyInfoInputs.cache
+d:\Lesson\NatNums\obj\Debug\net8.0\NatNums.AssemblyInfo.cs
+d:\Lesson\NatNums\obj\Debug\net8.0\NatNums.csproj.CoreCompileInputs.cache
+d:\Lesson\NatNums\obj\Debug\net8.0\NatNums.dll
+d:\Lesson\NatNums\obj\Debug\net8.0\refint\NatNums.dll
+d:\Lesson\NatNums\obj\Debug\net8.0\NatNums.pdb
+d:\Lesson\NatNums\obj\Debug\net8.0\NatNums.genruntimeconfig.cache
+d:\Lesson\NatNums\obj\Debug\net8.0\ref\NatNums.dll

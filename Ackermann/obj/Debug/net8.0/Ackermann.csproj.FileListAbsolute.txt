@@ -1,0 +1,14 @@
+d:\Lesson\Ackermann\bin\Debug\net8.0\Ackermann.exe
+d:\Lesson\Ackermann\bin\Debug\net8.0\Ackermann.deps.json
+d:\Lesson\Ackermann\bin\Debug\net8.0\Ackermann.runtimeconfig.json
+d:\Lesson\Ackermann\bin\Debug\net8.0\Ackermann.dll
+d:\Lesson\Ackermann\bin\Debug\net8.0\Ackermann.pdb
+d:\Lesson\Ackermann\obj\Debug\net8.0\Ackermann.GeneratedMSBuildEditorConfig.editorconfig
+d:\Lesson\Ackermann\obj\Debug\net8.0\Ackermann.AssemblyInfoInputs.cache
+d:\Lesson\Ackermann\obj\Debug\net8.0\Ackermann.AssemblyInfo.cs
+d:\Lesson\Ackermann\obj\Debug\net8.0\Ackermann.csproj.CoreCompileInputs.cache
+d:\Lesson\Ackermann\obj\Debug\net8.0\Ackermann.dll
+d:\Lesson\Ackermann\obj\Debug\net8.0\refint\Ackermann.dll
+d:\Lesson\Ackermann\obj\Debug\net8.0\Ackermann.pdb
+d:\Lesson\Ackermann\obj\Debug\net8.0\Ackermann.genruntimeconfig.cache
+d:\Lesson\Ackermann\obj\Debug\net8.0\ref\Ackermann.dll

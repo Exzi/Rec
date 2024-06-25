@@ -1,0 +1,14 @@
+D:\Lesson\ReverseArray\bin\Debug\net8.0\ReverseArray.exe
+D:\Lesson\ReverseArray\bin\Debug\net8.0\ReverseArray.deps.json
+D:\Lesson\ReverseArray\bin\Debug\net8.0\ReverseArray.runtimeconfig.json
+D:\Lesson\ReverseArray\bin\Debug\net8.0\ReverseArray.dll
+D:\Lesson\ReverseArray\bin\Debug\net8.0\ReverseArray.pdb
+D:\Lesson\ReverseArray\obj\Debug\net8.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson\ReverseArray\obj\Debug\net8.0\ReverseArray.AssemblyInfoInputs.cache
+D:\Lesson\ReverseArray\obj\Debug\net8.0\ReverseArray.AssemblyInfo.cs
+D:\Lesson\ReverseArray\obj\Debug\net8.0\ReverseArray.csproj.CoreCompileInputs.cache
+D:\Lesson\ReverseArray\obj\Debug\net8.0\ReverseArray.dll
+D:\Lesson\ReverseArray\obj\Debug\net8.0\refint\ReverseArray.dll
+D:\Lesson\ReverseArray\obj\Debug\net8.0\ReverseArray.pdb
+D:\Lesson\ReverseArray\obj\Debug\net8.0\ReverseArray.genruntimeconfig.cache
+D:\Lesson\ReverseArray\obj\Debug\net8.0\ref\ReverseArray.dll
