@@ -6,10 +6,16 @@ namespace Ackermann
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите значение m:");
+            Console.WriteLine("Введите значение m (не более 3):");
             int m = int.Parse(Console.ReadLine());
-            Console.WriteLine("Введите значение n:");
+            Console.WriteLine("Введите значение n (не более 10):");
             int n = int.Parse(Console.ReadLine());
+
+            if (m > 3 || n > 10)
+            {
+                Console.WriteLine("Значения m и n слишком большие для корректной работы функции Аккермана.");
+                return;
+            }
 
             int result = Ackermann(m, n);
             Console.WriteLine($"Ackermann({m}, {n}) = {result}");
